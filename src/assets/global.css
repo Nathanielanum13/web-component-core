@@ -1,0 +1,17 @@
+button.primary,
+button.secondary {
+    color: white !important;
+    background-color: #0070f3 !important;
+    border-radius: 4px !important;
+    border: 1px solid #0070f3 !important;
+    padding: 0.6em 1.2em !important;
+    font-size: 1em !important;
+    font-weight: 500 !important;
+    font-family: inherit !important;
+    cursor: pointer !important;
+    transition: border-color 0.25s !important;
+}
+
+button.secondary {
+    background-color: #00f396 !important;
+}

@@ -1,0 +1,12 @@
+{
+  "files": [],
+  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/components/BaseButton/BaseButton.js"],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ]
+}
